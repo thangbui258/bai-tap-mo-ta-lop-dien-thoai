@@ -1,0 +1,11 @@
+#iphone {
+    width: 35%;
+    background-color: cadetblue;
+    float: left;
+}
+
+#samsung {
+    width: 35%;
+    float: left;
+    background-color: coral;
+}
